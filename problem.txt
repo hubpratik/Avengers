@@ -1,4 +1,4 @@
 
 This caused the problem
 This file will be the root of all problem with merge
-
+New change added at line 4
