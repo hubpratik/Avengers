@@ -1,2 +1,2 @@
-This file will be the root of all problem with merge
-may be this did not caused the problem
+
+This did not caused the problem
