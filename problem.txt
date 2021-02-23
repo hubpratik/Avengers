@@ -2,3 +2,5 @@
 This caused the problem
 This file will be the root of all problem with merge
 New change added at line 4
+Change in line 5
+Change in line 6
